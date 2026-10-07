@@ -1,19 +1,19 @@
-# Hi, I'm Israa Said 👋 
+# Hi, I'm Israa Said  
 ### 3rd Year IT Student | Network & Security Engineering (RSI)
 
-📍 Tunisia | ✉️ saidisraa53@gmail.com
+ Tunisia | saidisraa53@gmail.com
 
 ---
 
-## 🚀 About Me
+## About Me
 Passionate 3rd-year Information Technology student specializing in **Networks & IT Services (RSI)**, currently seeking a **Final Year Internship (PFE)**. Experienced in network security architecture, firewall administration, SIEM deployment, penetration testing, and Python development.
 
-- 🛠️ **Current Focus:** Enterprise Infrastructure Security, Wazuh SIEM, Suricata IDS/IPS.
-- 🎯 **Looking for:** Graduation Internship (PFE) starting early 2027 in Network & Cybersecurity.
+-  **Current Focus:** Enterprise Infrastructure Security, Wazuh SIEM, Suricata IDS/IPS.
+- **Looking for:** Graduation Internship (PFE) starting early 2027 in Network & Cybersecurity.
 
 ---
 
-## 🧰 Technical Toolbox
+## Technical Toolbox
 
 - **Network & Security:** pfSense, Suricata (IDS/IPS), OpenVPN, IPsec, CA, DMZ, VLANs.
 - **SIEM & Monitoring:** Wazuh All-in-One (Manager, Indexer, Dashboard), Syslog.
@@ -23,24 +23,24 @@ Passionate 3rd-year Information Technology student specializing in **Networks & 
 
 ---
 
-## 📂 PFE Labs & Featured Projects
+## PFE Labs & Featured Projects
 
-### 🛡️ 1. Multi-Zone Network Architecture & IDS/IPS Deployment
+### 1. Multi-Zone Network Architecture & IDS/IPS Deployment
 - Deployed a multi-zone lab environment (**WAN / LAN / DMZ**) using **pfSense**.
 - Configured strict firewall filtering rules, NAT/PAT, and inter-VLAN routing.
 - Integrated **Suricata IDS/IPS** for real-time threat detection and active blocking.
 - Configured **OpenVPN** with a dedicated Certificate Authority (CA) for secure remote access.
 
-### 📊 2. Centralized SIEM & Threat Monitoring (Wazuh)
+### 2. Centralized SIEM & Threat Monitoring (Wazuh)
 - Deployed and optimized **Wazuh All-in-One** (Manager, Indexer, Dashboard) on Ubuntu CLI.
 - Handled system resource management under strict disk/RAM constraints.
 - Centralized logs and correlated security events for proactive incident management.
 
-### 🔍 3. Security Audit, Pentest & Traffic Analysis
+### 3. Security Audit, Pentest & Traffic Analysis
 - Performed vulnerability assessments using **Kali Linux**.
 - Executed SMB/port scans with **Nmap** and analyzed network captures with **Wireshark**.
 - Deployed a **Cowrie Honeypot** in the DMZ to record SSH/Telnet attacker interaction.
 
-### 💻 4. Automated Network Audit Tool & Streamlit Dashboard
+### 4. Automated Network Audit Tool & Streamlit Dashboard
 - Built a Python-based automated network audit script storing results in **SQLite**.
 - Developed an interactive **Streamlit Dashboard** to visualize security audit reports.
